@@ -1,6 +1,6 @@
 # Cloud metabolomics tutorial
 
-## Show of hands to understand the level
+## Show of hands
 
 - Who has spinned a VM.
 - Who knows what a container is.
