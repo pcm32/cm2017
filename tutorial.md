@@ -72,7 +72,7 @@ Duration: 20 minutes
 - As done at the SAB and Stakeholder demo, inviting users to try it as we go.
 - Login / Register
 - Show around App Library, Help, and how to deploy.
-- Show an existing deployment.
+- Show an existing deployment, quickly accessing Galaxy, Jupyter and the spooky dashboard.
 
 ## PhenoMeNal Public instance/deployed demo
 
@@ -80,6 +80,19 @@ Duration: 10 minutes
 
 - Show how to execute the Fluxomics workflow on the public instance or a deployed instance, as done during the SAB/stakeholder meeting.
 - Possibly showing the video instead of presenting directly, and then showing the interactivity of the visualization.
+
+## Bonus on-the-go: PhenoMeNal on your laptop
+
+- For those who installed minikube and helm on their machines as requested, instructions on how to lift our Galaxy instance on their own machines will be given:
+
+  - Download this config file phenomenal-galaxy-laptop.yaml.
+
+```
+$ minikube start 
+$ helm repo add galaxy-kubernetes
+$ helm install -f phenomenal-galaxy-laptop.yaml --version 0.3.1 galaxy-kubernetes/galaxy
+```
+  - On your browser, visit http://192.168.99.100:30700/
 
 # Closing remarks
 
