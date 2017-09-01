@@ -46,14 +46,14 @@ Duration: 15 minutes
 
 Duration: 10 minutes
 
-A quick walk through inside two cloud provider's web dashboard.
+A quick walk through inside two cloud provider's web dashboard/control panel, to give an idea of what can be done through them.
 
 ### OpenStack
 
-- Show instances
+- Show volumes
 - Show flavours
+- Show instances
 - Show networks
-- Talk about amazon and Google dashboard
 
 ### Amazon
 
@@ -78,7 +78,12 @@ Duration: 20 minutes
 
 Duration: 10 minutes
 
-- Show how to execute the Fluxomics workflow on the public instance or a deployed instance.
+- Show how to execute the Fluxomics workflow on the public instance or a deployed instance, as done during the SAB/stakeholder meeting.
+- Possibly showing the video instead of presenting directly, and then showing the interactivity of the visualization.
+
+# Closing remarks
+
+- Invite to interact during the course and beyond, to show us how does your analysis pipeline looks like, and look into whether we have all the elements for it in PhenoMeNal, or whether we would need some additions.
 
 
 
