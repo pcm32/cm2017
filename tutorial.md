@@ -1,4 +1,8 @@
-# Cloud metabolomics tutorial
+# Cloud basics, with PhenoMeNal
+
+This tutorial is divided in two parts: 
+- Cloud 101 slides and demos to give a general understanding and vocabulary of cloud computing elements (40 minutes).
+- PhenoMeNal overview slides and demos of the PhenoMeNal Portal, deployment and public instance (50 minutes).
 
 ## Show of hands
 
@@ -6,41 +10,79 @@
 - Who knows what a container is.
 - Who has used any cloud services beyond dropbox.
 
-## Cloud 101 Slides - 20 minutes
+## Cloud 101 Slides
+
+Duration: 15 minutes
 
 Topics:
 - What is cloud computing
-- Public, private and hybrid cloud providers
-  - Mention some particular ones.
-  - Heterogeneity within (zones) and inter cloud providers
 - Academic clouds
 - IaaS, PaaS, etc
   - Turn key solutions.
 - Building blocks:
+  - Public, private and hybrid cloud providers
+    - Mention some particular ones.
+    - Heterogeneity within (zones) and inter cloud providers
   - Virtual Machines
   - Containers
   - Infrastructure as code
-    - Alternatives for hardware and software provisioning
+    - Hardware and software provisioning
   - Orchestration
 - PhenoMeNal as a use case
-- Discuss the administrative intrincancies of getting a paid cloud account through academic institutions.
+- Mention the administrative intrincancies of getting a paid cloud account through academic institutions.
   - If the intend to use cloud providers in the future, they need to start talking to their finance/admin layer to understand how this can be done.
 
 ## Virtual Machines and Containers demo
 
-- Show how a virtual machine can be started with vagrant
-  - and how is provisioned with cloud-config. 
-- Start the VM as well with VirtualBox, making a note on how much it takes to start.
-- Create a dockerfile with the same software
+Duration: 15 minutes
+
+- Show how a virtual machine can be started, with VirtualBox, making a note on how much it takes to start.
+  - and how it can be provisioned with cloud-config. 
+- Show a dockerfile and the output of when it was created (used logs in CI)
   - Show how quickly you can get into the container
   - Show how easily you can run things inside the container from the outside, as opposed to the VM.
 
-## OpenStack dashboard demo
+## OpenStack and Amazon dashboard demo
+
+Duration: 10 minutes
+
+A quick walk through inside two cloud provider's web dashboard.
+
+### OpenStack
 
 - Show instances
 - Show flavours
 - Show networks
 - Talk about amazon and Google dashboard
+
+### Amazon
+
+- Show EC2
+
+## PhenoMeNal Slides
+
+Duration: 15 minutes
+
+- Similar slides as used for Metabolomics Conference, spending more time in the use cases.
+
+## PhenoMeNal Portal demo
+
+Duration: 20 minutes
+
+- As done at the SAB and Stakeholder demo
+- Login / Register
+- Show around Help, Wiki and how to deploy.
+
+## PhenoMeNal Public instance/deployed demo
+
+Duration: 10 minutes
+
+- Show how to execute the Fluxomics workflow on the public instance or a deployed instance.
+
+
+
+
+# Other ideas, not to be included currently:
 
 ## Infrastructure as a code
 
