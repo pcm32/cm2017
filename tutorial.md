@@ -83,7 +83,7 @@ Duration: 10 minutes
 
 ## Bonus on-the-go: PhenoMeNal on your laptop
 
-- For those who installed minikube and helm on their machines as requested, instructions on how to lift our Galaxy instance on their own machines will be given:
+- For those who installed minikube and helm on their machines [as requested](installation_requests.md), instructions on how to lift our Galaxy instance on their own machines will be given:
 
   - Download this config file phenomenal-galaxy-laptop.yaml.
 
