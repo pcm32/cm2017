@@ -69,9 +69,10 @@ Duration: 15 minutes
 
 Duration: 20 minutes
 
-- As done at the SAB and Stakeholder demo
+- As done at the SAB and Stakeholder demo, inviting users to try it as we go.
 - Login / Register
-- Show around Help, Wiki and how to deploy.
+- Show around App Library, Help, and how to deploy.
+- Show an existing deployment.
 
 ## PhenoMeNal Public instance/deployed demo
 
