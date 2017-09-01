@@ -1,5 +1,12 @@
 # Components to install
 
+The following directions will give you links to install components for the optional task of trying to lift PhenoMeNal on your own laptop, which could enable you to try lightweight analysis. If you go through it, you should end up with the following components installed:
+
+- VirtualBox (or another hypervisor). Many of you might already have this.
+- Minikube
+- kubectl
+- Helm
+
 # Minikube
 
 From its website:
