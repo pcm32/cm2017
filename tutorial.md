@@ -38,9 +38,9 @@ Duration: 15 minutes
 
 - Show how a virtual machine can be started, with VirtualBox, making a note on how much it takes to start.
   - and how it can be provisioned with cloud-config. 
-- Show a dockerfile and the output of when it was created (used logs in CI)
+- Show a dockerfile and the output of when it was created (use existing logs in CI to avoid waits)
   - Show how quickly you can get into the container
-  - Show how easily you can run things inside the container from the outside, as opposed to the VM.
+  - Show how easily you can run things inside the container from the outside.
 
 ## OpenStack and Amazon dashboard demo
 
