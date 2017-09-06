@@ -23,7 +23,7 @@ Topics:
 - PhenoMeNal as a use case
 
 
-## OpenStack and Amazon dashboard demo
+## OpenStack dashboard demo
 
 Duration: 5 minutes (running 30 min.)
 
