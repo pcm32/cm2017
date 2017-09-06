@@ -1,8 +1,8 @@
 # Cloud basics, with PhenoMeNal
 
 This tutorial is divided in two parts: 
-- Cloud 101 slides and demos to give a general understanding and vocabulary of cloud computing elements (40 minutes).
-- PhenoMeNal overview slides and demos of the PhenoMeNal Portal, deployment and public instance (50 minutes).
+- Cloud 101 slides and demos to give a general understanding and vocabulary of cloud computing elements (30 minutes).
+- PhenoMeNal overview slides and demos of the PhenoMeNal Portal, deployment and public instance (1 hour).
 
 ## Cloud 101 Slides
 
