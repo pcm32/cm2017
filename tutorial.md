@@ -52,6 +52,7 @@ Duration: 15 minutes (running 60 minutes)
 - Login / Register
 - Show around App Library, Help, and how to deploy.
 - Show an existing deployment, quickly accessing Galaxy, Jupyter and the spooky dashboard.
+- Following this [steps](Portal-practical).
 
 ## PhenoMeNal Public instance/deployed practical
 
