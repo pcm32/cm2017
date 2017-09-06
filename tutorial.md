@@ -40,7 +40,9 @@ A quick walk through inside a cloud provider's web dashboard/control panel, to g
 
 Duration: 15 minutes (running 45 min.)
 
-- Similar slides as used for Metabolomics Conference, spending more time in the use cases.
+Slides available [here](https://drive.google.com/open?id=0B3GjpBpPCNBcZks2cEVzYURBT1k).
+
+- Similar slides as used for Metabolomics Conference and SAB, spending more time in the use cases.
 
 ## PhenoMeNal Portal practical
 
@@ -51,7 +53,7 @@ Duration: 15 minutes (running 60 minutes)
 - Show around App Library, Help, and how to deploy.
 - Show an existing deployment, quickly accessing Galaxy, Jupyter and the spooky dashboard.
 
-## PhenoMeNal Public instance/deployed demo
+## PhenoMeNal Public instance/deployed practical
 
 Duration: 25 minutes (running 1:25)
 
