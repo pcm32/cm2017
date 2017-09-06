@@ -53,14 +53,18 @@ Duration: 20 minutes (running 65 minutes)
 
 ## PhenoMeNal Public instance/deployed demo
 
-Duration: 20 minutes (running 1:30)
+Duration: 20 minutes (running 1:25)
 
 - Show how to execute the Fluxomics workflow on the public instance or a deployed instance, as done during the SAB/stakeholder meeting.
 - Possibly showing the video instead of presenting directly, and then showing the interactivity of the visualization.
 
-### Closing remarks
+## Closing remarks
 
-- Invite to interact during the course and beyond, to show us how does your analysis pipeline looks like, and look into whether we have all the elements for it in PhenoMeNal, or whether we would need some additions.
+Duration: few minutes
+
+- Invite to interact during the course and beyond:
+  - To show us how does your analysis pipeline looks like, and look into whether we have all the elements for it in PhenoMeNal, or whether we would need some additions.
+  - If you have an interest in using containers for your research, or any other technology mentioned.
 
 
 
