@@ -51,16 +51,16 @@ Duration: 15 minutes (running 60 minutes)
 - As done at the SAB and Stakeholder demo, inviting users to try it as we go.
 - Login / Register
 - Show around App Library, Help, and how to deploy.
+- Show how to get an account on the public instance.
 - Show an existing deployment, quickly accessing Galaxy, Jupyter and the spooky dashboard.
-- Following this [steps](Portal-practical.md).
+- Following these [steps](Portal-practical.md).
 
-## PhenoMeNal Public instance/deployed practical
+## Fluxomics workflow practical
 
 Duration: 25 minutes (running 1:25)
 
-- Show how to get an account on the public instance.
-- Show how to build the fluxomics workflow (following this [steps](build-fluxomics-workflow.md)).
-- Show how to execute the Fluxomics workflow (following the [tutorial](https://github.com/phnmnl/phenomenal-h2020/wiki/fluxomics-workflow)) on the public instance or a deployed instance, as done during the SAB/stakeholder meeting.
+- Show how to build the Fluxomics workflow (following this [steps](build-fluxomics-workflow.md)).
+- Show how to execute the Fluxomics workflow (following the [tutorial](https://github.com/phnmnl/phenomenal-h2020/wiki/fluxomics-workflow)) on the public instance or a deployed instance.
 
 
 ## Closing remarks
