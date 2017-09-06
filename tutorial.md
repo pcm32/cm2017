@@ -42,7 +42,7 @@ Duration: 15 minutes (running 45 min.)
 
 Slides available [here](https://drive.google.com/open?id=0B3GjpBpPCNBcZks2cEVzYURBT1k).
 
-- Similar slides as used for Metabolomics Conference and SAB, spending more time in the use cases.
+- Similar slides as used for Metabolomics Conference and SAB.
 
 ## PhenoMeNal Portal practical
 
