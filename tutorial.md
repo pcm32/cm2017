@@ -65,11 +65,13 @@ Duration: 25 minutes (running 1:25)
 
 ## Closing remarks
 
-Duration: few minutes
+Duration: 5 minutes
 
 - Invite to interact during the course and beyond:
   - To show us how does your analysis pipeline looks like, and look into whether we have all the elements for it in PhenoMeNal, or whether we would need some additions.
-  - If you have an interest in using containers for your research, or any other technology mentioned.
+  - If you have an interest in using containers for your research, or any other technology mentioned, specially PhenoMeNal as a whole.
+- Main takeaway messages from PhenoMeNal.
+- Acknowledgements slides.
 
 
 
