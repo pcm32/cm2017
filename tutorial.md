@@ -44,7 +44,7 @@ Duration: 15 minutes (running 45 min.)
 
 ## PhenoMeNal Portal practical
 
-Duration: 20 minutes (running 65 minutes)
+Duration: 15 minutes (running 60 minutes)
 
 - As done at the SAB and Stakeholder demo, inviting users to try it as we go.
 - Login / Register
@@ -53,10 +53,12 @@ Duration: 20 minutes (running 65 minutes)
 
 ## PhenoMeNal Public instance/deployed demo
 
-Duration: 20 minutes (running 1:25)
+Duration: 25 minutes (running 1:25)
 
-- Show how to execute the Fluxomics workflow on the public instance or a deployed instance, as done during the SAB/stakeholder meeting.
-- Possibly showing the video instead of presenting directly, and then showing the interactivity of the visualization.
+- Show how to get an account on the public instance.
+- Show how to build the fluxomics workflow.
+- Show how to execute the Fluxomics workflow (following the [tutorial](https://github.com/phnmnl/phenomenal-h2020/wiki/fluxomics-workflow)) on the public instance or a deployed instance, as done during the SAB/stakeholder meeting.
+
 
 ## Closing remarks
 
