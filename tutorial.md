@@ -59,7 +59,7 @@ Duration: 15 minutes (running 60 minutes)
 Duration: 25 minutes (running 1:25)
 
 - Show how to get an account on the public instance.
-- Show how to build the fluxomics workflow.
+- Show how to build the fluxomics workflow (following this [steps](build-fluxomics-workflow.md)).
 - Show how to execute the Fluxomics workflow (following the [tutorial](https://github.com/phnmnl/phenomenal-h2020/wiki/fluxomics-workflow)) on the public instance or a deployed instance, as done during the SAB/stakeholder meeting.
 
 
