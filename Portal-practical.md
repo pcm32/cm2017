@@ -7,6 +7,7 @@ Prepared by Sijin He and Pablo Moreno
 1.- Access the Phenomenal Portal on https://portal.phenomenal-h2020.eu/. 
 
 2.- The PhenoMeNal Portal consists on three main parts, displayed in this order in the main page: 
+
     - Cloud Research Environment Deployment
     - App Library
     - Documentation
