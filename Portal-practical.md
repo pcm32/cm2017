@@ -8,9 +8,9 @@ Prepared by Sijin He and Pablo Moreno
 
 2.- The PhenoMeNal Portal consists on three main parts, displayed in this order in the main page: 
 
-    - Cloud Research Environment Deployment
-    - App Library
-    - Documentation
+ - Cloud Research Environment Deployment
+ - App Library
+ - Documentation
 
 3.- On the left, under "Test drive our Cloud Research Environment", click on "Galaxy Workflow" button, it will take you to the PhenoMeNal Public Galaxy instance.
 
