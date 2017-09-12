@@ -14,9 +14,9 @@
 
 7. **Connecting nodes:**
 
- 7.1. Use the blue rectangle to move the canvas to show the ramid box. Connect the output of ramid (outputExchange (csv)) to the input of midcor (input1).
- 7.2. Connnect the only output of midcor to the "tracing data" input of Iso2flux.
- 7.3. Connnect the "Best fit fluxes" output of Iso2flux to escher-fluxomics input with similar name.
+   1. Use the blue rectangle to move the canvas to show the ramid box. Connect the output of ramid (outputExchange (csv)) to the input of midcor (input1).
+   2. Connnect the only output of midcor to the "tracing data" input of Iso2flux.
+   3. Connnect the "Best fit fluxes" output of Iso2flux to escher-fluxomics input with similar name.
 
 8. Using the cog on the upper right, choose "Save".
 
