@@ -28,7 +28,7 @@ Duration: 15 minutes (running 60 minutes)
 
 Duration: 25 minutes (running 1:25)
 
-- Show how to build the Fluxomics workflow (following this [steps](build-fluxomics-workflow.md)).
+- Show how to build the Fluxomics workflow (following these [steps](build-fluxomics-workflow.md)).
 - Show how to execute the Fluxomics workflow (following the [tutorial](https://github.com/phnmnl/phenomenal-h2020/wiki/fluxomics-workflow)) on the [public instance](https://public.phenomenal-h2020.eu/) or a deployed instance of your own.
 
 ## Closing remarks
