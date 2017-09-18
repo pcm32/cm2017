@@ -8,6 +8,8 @@ This tutorial is divided in two parts:
 
 Duration: 25 minutes
 
+Slides available [here](https://drive.google.com/open?id=0B3GjpBpPCNBcMEpfT1ZBMmtqS1E).
+
 ## OpenStack dashboard demo
 
 Duration: 5 minutes (running 30 min.)
@@ -17,6 +19,8 @@ A quick walk through inside a cloud provider's web dashboard/control panel, to g
 ## PhenoMeNal Slides
 
 Duration: 15 minutes (running 45 min.)
+
+Slides available [here](https://drive.google.com/open?id=0B3GjpBpPCNBcZks2cEVzYURBT1k).
 
 ## PhenoMeNal Portal practical
 
