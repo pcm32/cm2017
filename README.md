@@ -1,5 +1,7 @@
 # Cloud basics, with PhenoMeNal
 
+These material was presented at the Cloud Metabolomics 2017 course held at CRS4 in Sardinia on September 2017.
+
 This tutorial is divided in two parts: 
 - Cloud 101 slides and demos to give a general understanding and vocabulary of cloud computing elements (30 minutes).
 - PhenoMeNal overview slides and demos/practical of the PhenoMeNal Portal, deployment and public instance (1 hour).
